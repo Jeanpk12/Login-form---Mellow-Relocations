@@ -1,6 +1,9 @@
 <h1>Mellow Relocations - Formulário de Login</h1>
 <p>Bem-vindo ao projeto Mellow Relocations - um formulário de login simples desenvolvido em HTML e CSS para estudos pessoais. Este projeto é uma simulação de um formulário de login para uma empresa fictícia de mudanças, proporcionando aos usuários uma experiência amigável e agradável.</p>
 
+![image](https://github.com/Jeanpk12/Login-form---Mellow-Relocations/assets/122842874/5eff9895-db8a-4900-9df5-261f7182e7e0)
+
+
 <h2>Conteúdo do Projeto</h2>
 <h3>Estrutura do Projeto</h3>
 <ul>
