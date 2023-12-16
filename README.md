@@ -8,6 +8,7 @@
 <h2>Conteúdo do Projeto</h2>
 <h3>Estrutura do Projeto</h3>
 <ul>
+  <li><strong>index.html</strong>: Arquivo que estrutura o formulário</li>
   <li><strong>src/css/reset.css</strong>: Arquivo de estilo para resetar estilos padrão do navegador.</li>
   <li><strong>src/css/style.css</strong>: Arquivo de estilo principal para o formulário de login.</li>
 </ul>
